@@ -1,5 +1,5 @@
 "
-I represent Baseline of Binary Search Tree
+I represent Baseline of Binary Search Tree and AVL
 "
 Class {
 	#name : 'BaselineOfContainersBinarySearchTree',
